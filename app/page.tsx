@@ -1,6 +1,6 @@
 import EventCard from '@/components/EventCard';
 import ExploreButton from '@/components/ExploreButton';
-import { EVENTS } from '@/lib';
+import { EVENTS } from '@/lib/constants';
 
 export default function Home() {
   return (
